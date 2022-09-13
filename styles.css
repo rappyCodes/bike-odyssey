@@ -19,6 +19,9 @@ img {
     width: 100%;
     height: auto;
 }
+html {
+    scroll-behavior: smooth;
+}
 html, body {
     height: 100%;
 }
