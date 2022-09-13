@@ -49,9 +49,9 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: -o-linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("./assets/hero-banner.jpg");
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6)), to(rgba(0, 0, 0, 0.6))), url("./assets/hero-banner.jpg");
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("./assets/hero-banner.jpg");
+    background-image: -o-linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("./assets/hero-banner.webp");
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6)), to(rgba(0, 0, 0, 0.6))), url("./assets/hero-banner.webp");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("./assets/hero-banner.webp");
     height: 100vh;
     background-color: var(--clr-black-400);
 }
@@ -228,25 +228,25 @@ li:hover::after {
                 align-items: flex-end;
     }
     .services__card--1 {
-        background:-webkit-gradient(linear, left top, left bottom, color-stop(20%, rgba(0,0,0,0)), to(rgba(0,0,0,1))), url('./assets/used-motorbikes-img.png');
-        background:-o-linear-gradient(top, rgba(0,0,0,0) 20%, rgba(0,0,0,1)), url('./assets/used-motorbikes-img.png');
-        background:linear-gradient(to bottom, rgba(0,0,0,0) 20%, rgba(0,0,0,1)), url('./assets/used-motorbikes-img.png');
+        background:-webkit-gradient(linear, left top, left bottom, color-stop(20%, rgba(0,0,0,0)), to(rgba(0,0,0,1))), url('./assets/used-motorbikes-img.webp');
+        background:-o-linear-gradient(top, rgba(0,0,0,0) 20%, rgba(0,0,0,1)), url('./assets/used-motorbikes-img.webp');
+        background:linear-gradient(to bottom, rgba(0,0,0,0) 20%, rgba(0,0,0,1)), url('./assets/used-motorbikes-img.webp');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
     }
     .services__card--2 {
-        background:-webkit-gradient(linear, left top, left bottom, color-stop(20%, rgba(0,0,0,0)), to(rgba(0,0,0,1))), url('./assets/latest-motorbikes-img.png');
-        background:-o-linear-gradient(top, rgba(0,0,0,0) 20%, rgba(0,0,0,1)), url('./assets/latest-motorbikes-img.png');
-        background:linear-gradient(to bottom, rgba(0,0,0,0) 20%, rgba(0,0,0,1)), url('./assets/latest-motorbikes-img.png');
+        background:-webkit-gradient(linear, left top, left bottom, color-stop(20%, rgba(0,0,0,0)), to(rgba(0,0,0,1))), url('./assets/latest-motorbikes-img.webp');
+        background:-o-linear-gradient(top, rgba(0,0,0,0) 20%, rgba(0,0,0,1)), url('./assets/latest-motorbikes-img.webp');
+        background:linear-gradient(to bottom, rgba(0,0,0,0) 20%, rgba(0,0,0,1)), url('./assets/latest-motorbikes-img.webp');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
     }
     .services__card--3 {
-        background:-webkit-gradient(linear, left top, left bottom, color-stop(20%, rgba(0,0,0,0)), to(rgba(0,0,0,1))), url('./assets/clothing-motorbikes-img.png');
-        background:-o-linear-gradient(top, rgba(0,0,0,0) 20%, rgba(0,0,0,1)), url('./assets/clothing-motorbikes-img.png');
-        background:linear-gradient(to bottom, rgba(0,0,0,0) 20%, rgba(0,0,0,1)), url('./assets/clothing-motorbikes-img.png');
+        background:-webkit-gradient(linear, left top, left bottom, color-stop(20%, rgba(0,0,0,0)), to(rgba(0,0,0,1))), url('./assets/clothing-motorbikes-img.webp');
+        background:-o-linear-gradient(top, rgba(0,0,0,0) 20%, rgba(0,0,0,1)), url('./assets/clothing-motorbikes-img.webp');
+        background:linear-gradient(to bottom, rgba(0,0,0,0) 20%, rgba(0,0,0,1)), url('./assets/clothing-motorbikes-img.webp');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
